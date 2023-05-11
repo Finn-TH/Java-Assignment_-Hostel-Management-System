@@ -1,0 +1,4 @@
+10,3,Suite,available,50
+20,3,Suite,unavailable,100
+35,5,Penthouse,available,200
+40,2,Studio,available,40
